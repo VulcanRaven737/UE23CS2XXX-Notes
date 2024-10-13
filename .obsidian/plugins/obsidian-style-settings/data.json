@@ -1,0 +1,9 @@
+{
+  "notation-2-theme@@notation-colors": false,
+  "notation-2-theme@@heading-colors-bg": "headings-pink",
+  "notation-2-theme@@hide-new-folder": true,
+  "notation-2-theme@@hide-other-icons": false,
+  "notation-2-theme@@notation-titlebar": false,
+  "notation-2-theme@@heading-colors": "headings-purple-text",
+  "notation-2-theme@@banner-type-select": "banner-glow"
+}

@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "b6906b6193d11e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4e9aa2b0d9c235a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e3cdf4939fdffb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 3/MCSE/Unit 1/Introduction to Data Science.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ea35e2638a12c88",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c6911ebd0a3303f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee6935da98f34b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2671a5893d54a3a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9523462543d92a98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "651d397abd876ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f1bf7d404e2b331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd5aec7ed720e2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sem 3/MCSE/Unit 1/Introduction to Data Science.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45bc318f6d6479ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem 3/MCSE/Unit 1/Introduction to Data Science.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7e3cdf4939fdffb0",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-13 10.31.24.excalidraw.md",
+    "Sem 3/MCSE/Unit 1/Introduction to Data Science.md",
+    "Excalidraw",
+    "Sem 3/WT/Introduction to WWW, Web Protocols and URLs.md",
+    "Sem 3/DSA/Binary Trees.md",
+    "Images/Pasted image 20241013102314.png",
+    "Sem 3/AFLL/Unit 1/Deterministic Finite Automata (DFA).md",
+    "Sem 3/DSA",
+    "Sem 3/AFLL/Unit 1/Regular Expressions.md",
+    "Sem 3/AFLL/Unit 1/Epsilon Non-Deterministic Finite Automata.md",
+    "Sem 3/AFLL/Unit 1/Non-Deterministic Finite Automata (NFA).md",
+    "Sem 3/AFLL/Unit 1/Introduction.md",
+    "Sem 3/DDCO/Unit 2/Flip-Flops.md",
+    "Sem 3/DDCO/Unit 2/Sequential Circuits - Introduction.md",
+    "Sem 3/DDCO/Unit 1/Combinational Circuits.md",
+    "Sem 3/DDCO/Unit 1/Digital Design - Introduction.md",
+    "Sem 3/MCSE/Unit 1/Types of Statistics.md",
+    "Sem 3/MCSE/Unit 1/Types of Data.md",
+    "Sem 3/MCSE/Unit 1/Types of Studies.md",
+    "Sem 3/MCSE/Unit 1/Sampling Distributions.md",
+    "Sem 3/MCSE/Unit 1/Sampling.md",
+    "Sem 3/MCSE/Unit 1/Population and Sampling.md",
+    "Sem 3/MCSE/Unit 1/Point Estimator.md",
+    "Sem 3/MCSE/Unit 2/Confidence Intervals.md",
+    "Images/Pasted image 20240921234141.png",
+    "Sem 3/MCSE/Unit 1/Chebyshev's Inequality.md",
+    "Sem 3/MCSE/Unit 2/Agresti Coull Confidence Interval.md",
+    "Sem 3/WT",
+    "Images/Pasted image 20240920145207.png",
+    "Images/Pasted image 20240920130251.png",
+    "Images/Pasted image 20240920125753.png",
+    "Images/Pasted image 20240919162952.png",
+    "Images/Pasted image 20240919161927.png",
+    "Images/Pasted image 20240919161902.png",
+    "Images/Pasted image 20240919161843.png",
+    "Images/Pasted image 20240912154245.png",
+    "Images",
+    "Sem 3/MCSE/Unit 2",
+    "Sem 3/DDCO/Unit 2",
+    "Sem 3/DDCO/Unit 1",
+    "Sem 3/AFLL/Unit 2/Properties of Regular Languages.md",
+    "Sem 3/AFLL/Unit 2",
+    "Sem 3/AFLL/Untitled.md",
+    "Sem 3/AFLL/Unit 1",
+    "Sem 3/AFLL/Unit 1/Sets.md",
+    "Sem 3/DDCO",
+    "Sem 3/AFLL/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

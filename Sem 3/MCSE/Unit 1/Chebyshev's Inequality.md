@@ -1,0 +1,3 @@
+#### Statement - Chebyshev's Inequality relates the mean and the standard deviation by providing a bound on the probability that a random variable takes on a value that differs from its mean by more than a given multiple of its standard deviation
+* The probability that a random variable differs from its mean by **k** standard deviations or more is never greater than **1/k^2**
+* Chebyshev's Inequality states that at least **1-1/k^2** of data from a sample must fall within **K** standard deviations from the mean, where **K** is any positive real number greater than one
