@@ -117,13 +117,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "7e3cdf4939fdffb0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-13 10.31.24.excalidraw.md",
+    "README.md",
     "Sem 3/MCSE/Unit 1/Introduction to Data Science.md",
+    "Excalidraw/Drawing 2024-10-13 10.31.24.excalidraw.md",
     "Excalidraw",
     "Sem 3/WT/Introduction to WWW, Web Protocols and URLs.md",
     "Sem 3/DSA/Binary Trees.md",
@@ -166,7 +168,6 @@
     "Sem 3/AFLL/Unit 2",
     "Sem 3/AFLL/Untitled.md",
     "Sem 3/AFLL/Unit 1",
-    "Sem 3/AFLL/Unit 1/Sets.md",
     "Sem 3/DDCO",
     "Sem 3/AFLL/Untitled.canvas",
     "Untitled.canvas"
