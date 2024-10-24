@@ -13,14 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 3/MCSE/Unit 1/Introduction to Data Science.md",
+                "file": "Sem 3/DSA/Binary Trees.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Binary Trees"
+            }
+          },
+          {
+            "id": "7f9ec3a85d6c8c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 3/DDCO/Unit 3/Basic Operational Concepts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Operational Concepts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +75,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,14 +85,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "651d397abd876ff9",
@@ -86,10 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 3/MCSE/Unit 1/Introduction to Data Science.md",
+                "file": "Sem 3/DDCO/Unit 3/Basic Structure of Computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Basic Structure of Computers"
             }
           },
           {
@@ -98,8 +125,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 3/MCSE/Unit 1/Introduction to Data Science.md"
-              }
+                "file": "Sem 3/DDCO/Unit 3/Basic Structure of Computers.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Basic Structure of Computers"
             }
           }
         ]
@@ -121,12 +150,28 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7e3cdf4939fdffb0",
+  "active": "7f9ec3a85d6c8c58",
   "lastOpenFiles": [
-    "README.md",
+    "Sem 3/DDCO/Unit 3/Basic Structure of Computers.md",
+    "Sem 3/DDCO/Unit 3/Basic Operational Concepts.md",
+    "Images/Pasted image 20241021174933.png",
+    "Images/Pasted image 20241021174926.png",
+    "Images/Pasted image 20241021174859.png",
+    "Sem 3/DDCO/Unit 3",
+    "Sem 3/MCSE/Unit 2/Confidence Intervals.md",
+    "Sem 3/MCSE/Unit 2/Agresti Coull Confidence Interval.md",
+    "Sem 3/MCSE/Unit 1/Chebyshev's Inequality.md",
     "Sem 3/MCSE/Unit 1/Introduction to Data Science.md",
-    "Excalidraw/Drawing 2024-10-13 10.31.24.excalidraw.md",
-    "Excalidraw",
+    "Sem 3/MCSE/Unit 1/Point Estimator.md",
+    "Sem 3/MCSE/Unit 1/Population and Sampling.md",
+    "Sem 3/MCSE/Unit 1/Sampling.md",
+    "Sem 3/MCSE/Unit 1/Sampling Distributions.md",
+    "Sem 3/MCSE/Unit 1/Types of Data.md",
+    "Sem 3/MCSE/Unit 1/Types of Studies.md",
+    "Sem 3/MCSE/Unit 1/Types of Statistics.md",
+    "README.md",
+    "Images/Excalidraw/Drawing 2024-10-13 10.31.24.excalidraw.md",
+    "Images/Excalidraw",
     "Sem 3/WT/Introduction to WWW, Web Protocols and URLs.md",
     "Sem 3/DSA/Binary Trees.md",
     "Images/Pasted image 20241013102314.png",
@@ -140,35 +185,19 @@
     "Sem 3/DDCO/Unit 2/Sequential Circuits - Introduction.md",
     "Sem 3/DDCO/Unit 1/Combinational Circuits.md",
     "Sem 3/DDCO/Unit 1/Digital Design - Introduction.md",
-    "Sem 3/MCSE/Unit 1/Types of Statistics.md",
-    "Sem 3/MCSE/Unit 1/Types of Data.md",
-    "Sem 3/MCSE/Unit 1/Types of Studies.md",
-    "Sem 3/MCSE/Unit 1/Sampling Distributions.md",
-    "Sem 3/MCSE/Unit 1/Sampling.md",
-    "Sem 3/MCSE/Unit 1/Population and Sampling.md",
-    "Sem 3/MCSE/Unit 1/Point Estimator.md",
-    "Sem 3/MCSE/Unit 2/Confidence Intervals.md",
     "Images/Pasted image 20240921234141.png",
-    "Sem 3/MCSE/Unit 1/Chebyshev's Inequality.md",
-    "Sem 3/MCSE/Unit 2/Agresti Coull Confidence Interval.md",
     "Sem 3/WT",
     "Images/Pasted image 20240920145207.png",
     "Images/Pasted image 20240920130251.png",
     "Images/Pasted image 20240920125753.png",
     "Images/Pasted image 20240919162952.png",
     "Images/Pasted image 20240919161927.png",
-    "Images/Pasted image 20240919161902.png",
-    "Images/Pasted image 20240919161843.png",
-    "Images/Pasted image 20240912154245.png",
     "Images",
     "Sem 3/MCSE/Unit 2",
     "Sem 3/DDCO/Unit 2",
     "Sem 3/DDCO/Unit 1",
-    "Sem 3/AFLL/Unit 2/Properties of Regular Languages.md",
     "Sem 3/AFLL/Unit 2",
-    "Sem 3/AFLL/Untitled.md",
     "Sem 3/AFLL/Unit 1",
-    "Sem 3/DDCO",
     "Sem 3/AFLL/Untitled.canvas",
     "Untitled.canvas"
   ]
