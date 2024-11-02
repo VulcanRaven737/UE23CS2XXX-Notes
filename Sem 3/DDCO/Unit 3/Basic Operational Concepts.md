@@ -26,4 +26,8 @@
 
 #### Instruction Execution Cycle
 * **Fetch** 
-	* CPU retrieves the next instruction from memory to 
+	* CPU retrieves the next instruction from memory using the PC
+*  **Decode**
+	* CPU interprets the instruction to determine which operation needs to be performed and what data it needs to use 
+* **Execute**
+	* CPU carries out the instruction 
