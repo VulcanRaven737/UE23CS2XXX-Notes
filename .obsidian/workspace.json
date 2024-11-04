@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "651d397abd876ff9",
@@ -134,12 +133,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e61542e0dc0eb566",
+  "active": "bee6935da98f34b0",
   "lastOpenFiles": [
     "Sem 3/DDCO/Unit 3/3 - Number, Arithmetic Ops & Characters.md",
     "Sem 3/DDCO/Unit 3/4 - Memory Locations and Addresses.md",
-    "Pasted image 20241104191140.png",
-    "Pasted image 20241104190955.png",
+    "Images/Pasted image 20241104191140.png",
+    "Images/Pasted image 20241104190955.png",
     "Sem 3/DDCO/Unit 3/2 - Basic Operational Concepts.md",
     "Sem 3/DDCO/Unit 3/1 - Basic Structure of Computers.md",
     "Sem 3/MCSE/Unit 3/1 - Distribution free Tests.md",

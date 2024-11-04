@@ -15,7 +15,7 @@ For a 64 Bit processor - Word length is 8 Bytes**
 #### Big Endian Assignment
 * When lower byte addresses are used for the more significant bytes of the word, it is called big endian assignment
 * The most significant value in the sequence is first at the lowest storage address
-* Basically stores the most significant btt first, hence data is read from left to right
+* Basically stores the most significant bit first, hence data is read from left to right
 
 #### Little Endian Assignment 
 * When lower byte addresses are used for the least significant bytes of the word, it is called little endian assignment
