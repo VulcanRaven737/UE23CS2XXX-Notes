@@ -38,4 +38,7 @@ Eg: 3, 4, 4, 5, 7 would be ranked 1, 2.5, 2.5, 4, 5
 	* **Variance = mn(m+n+1)/12**
 	* Z score is calculated using the above values to find the P value
 		* **z = [ W - m(m+n+1)/2 ] / root[ mn(m+n+1)/12 ]**
-	* 
+
+**Note - Distribution free tests are not free of assumptions**
+
+**Note - If P>0.05, accept H0 else if P<0.05, reject H0** (This is applicable for significance level alpha)
