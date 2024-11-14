@@ -84,6 +84,6 @@
 		* They consist of the following fields
 			* **PID** - Identifies the type of the data packet
 			* **DATA** - The data being transferred ranging from 0 to 8192 bits in length
-			* CRC16 - Used to detect errors
+			* **CRC16** - Used to detect errors
 * Isochronous traffic on USB is one of the key use cases 
 * USB also supports Inochronous data 
