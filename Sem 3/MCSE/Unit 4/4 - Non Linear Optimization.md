@@ -28,4 +28,9 @@
 				* The Lagrange multiplier ƛ>= 0
 			* **Complementary Slackness**
 				* ƛ * g(x) = 0
-	* **Genetic Algorithms**
+				* 
+#### Genetic Algorithms 
+* **Computation Intelligence** usually refers to the ability of a computer to learn a specific task from data or experimental observation
+* Computational Intelligence is a set of nature inspired computational methodologies and approaches to address real world problem to which mathematical or traditional modelling cannot be used
+* **Evolutionary Algorithms** are a subset of optimization techniques inspired by the principles of natural evolution, such as **selection, mutation, crossover and survival of the fittest**
+* Genetic Algorithm is a meta heuristic search based optimization technique inspired by the principles of Genetics and Natural Selection

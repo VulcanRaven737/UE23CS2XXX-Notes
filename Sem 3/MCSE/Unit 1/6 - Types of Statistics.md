@@ -34,8 +34,8 @@
 		* ***Purpose - To make decision about population characteristics*** 
 #### The Difference
 
-| **Descriptive Statistics**                                        | **Inferential Statistics**                                                              |
-| :---------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+| **Descriptive Statistics**                                      | **Inferential Statistics**                                                            |
+| :-------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
 | *Describes the target population*                               | *Makes inferences from the sample and generalizes them to the population*             |
 | *Organize, Analyze and Present the data in a meaningful manner* | *Compares, Tests and Predicts the outcomes of an entire population based on a sample* |
 | *Represented using charts and graphs and tables*                | *Represented using Probability Scores*                                                |

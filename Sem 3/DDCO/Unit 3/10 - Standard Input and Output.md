@@ -65,7 +65,7 @@
 * All information transferred over the USB is organized in packets where a packet consists of one or more bytes of information. The information transferred on the USB can be divided into 2 broad categories
 	* **Control**
 		* Perform tasks such as addressing a device to initiate data transfer, acknowledging that data has been received correctly or indicating an error 
-	* Data
+	* **Data**
 		* Carry information that is delivered to a device 
 * A packet consists of one or more fields 
 	* **Packet Identifier (PID)**
