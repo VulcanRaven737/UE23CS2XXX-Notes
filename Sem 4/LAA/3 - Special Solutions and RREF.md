@@ -9,4 +9,4 @@
 * It is obtained by manipulating the rows above the pivot to 0 using row transformations and further converting all the pivots to 1 by division
 * The special solution to the vector is hidden in RREF itself
 * [Identity * Free] is the form in which the RREF is in and the solution is [-Free / Identity]
-
+![[Pasted image 20250222160904.png]]![[Pasted image 20250411162026.png]]

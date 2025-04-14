@@ -41,5 +41,7 @@ Note - Check recursive algorithms for calculating GCD of two numbers
 * Decide on Exact or Approximate algorithm and the Data Structure 
 * Design an algorithm 
 * Prove correctness 
+	* Exact Algorithms 
+	* Approximation Algorithms
 * Analyze the algorithm 
 * Code the algorithm

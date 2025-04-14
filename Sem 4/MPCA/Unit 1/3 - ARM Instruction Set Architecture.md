@@ -41,3 +41,7 @@
 		* SWI 0x11
 	* **Program Status Register Instructions** 
 		* MSR, MRS
+
+**Note - `BIC` clears specific bits from `R1` based on `R2`. Any position where `R2` has `1`, `R1` is forced to `0`. Any position where `R2` has `0`, `R1` remains unchanged.**
+
+![[Pasted image 20250218083110.png]]

@@ -65,3 +65,5 @@
 		* CPU cache is the cache used by the CPU to reduce the average time time taken to access data from the main memory 
 	* **Super-Scalar instructions** 
 		* A super-scalar processor executes more than one instruction during a clock cycle by simultaneously dispatching multiple instructions to different compute units on the processor 
+
+**Note - MUL, CLZ and QADD do not use the barrel shifter** 
