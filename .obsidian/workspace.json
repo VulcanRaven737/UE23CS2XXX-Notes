@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 5/SE/U1/U1 - P1.md",
+                "file": "Sem 5/SE/U1/U1 - P2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "U1 - P1"
+              "title": "U1 - P2"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "651d397abd876ff9",
@@ -137,8 +138,11 @@
   },
   "active": "6494a09b63d400a6",
   "lastOpenFiles": [
-    "Sem 5/ML/U1/U1 - 2.md",
+    "Sem 5/SE/U2/U2 - P1.md",
+    "Sem 5/SE/U1/U1 - P2.md",
     "Sem 5/SE/U1/U1 - P1.md",
+    "Sem 5/SE/U2",
+    "Sem 5/ML/U1/U1 - 2.md",
     "Sem 5/SE/U1",
     "Sem 5/SE",
     "Sem 5/ML/SE",
@@ -155,7 +159,6 @@
     "Sem 5/DBMS/U1",
     "Untitled",
     "Sem 4/CN/U3/1 - Transport Layer & Reliable Data Transfer Protocols.md",
-    "Sem 5/DBMS",
     "Sem 4/MPCA/Unit 1/2 - ARM Processor Fundamentals.md",
     "Sem 4/MPCA/Unit 1/1 - What is a Microprocessor and Microcontroller?.md",
     "Sem 4/LAA/2 - Column Space and Null Space.md",
@@ -175,14 +178,12 @@
     "Sem 4/DAA/Unit 3/2 - Red Black Tree.md",
     "Sem 4/DAA/Unit 3/3 - B Trees.md",
     "Sem 4/DAA/Unit 3/1 - Transform and Conquer.md",
-    "Sem 4/DAA/Unit 1/3 - Brute Force Algorithms.md",
     "Images/Pasted image 20250415123655.png",
     "Images/Pasted image 20250405123530.png",
     "Images/Pasted image 20250315124317.png",
     "Images/Pasted image 20250414144921.png",
     "Images/Pasted image 20250414144542.png",
     "Images/Pasted image 20250414143719.png",
-    "Sem 4/CN/U1/1 - Introduction to Computer Networks.md",
     "Sem 3/AFLL/Untitled.canvas",
     "Untitled.canvas"
   ]
