@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 5/AFML/U2/U2 - P3.md",
+                "file": "Sem 5/AFML/U3/Autoencoders.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "U2 - P3"
+              "title": "Autoencoders"
             }
           }
         ]
@@ -138,15 +138,22 @@
   },
   "active": "6c2b054d6736a808",
   "lastOpenFiles": [
-    "Sem 5/AFML/U2/U2 - P2.md",
+    "Sem 5/AFML/U3/Autoencoders.md",
+    "Excalidraw/Drawing 2025-10-28 21.37.43.excalidraw.md",
+    "Excalidraw",
+    "Sem 5/SE/U1/U1 - P1.md",
+    "Sem 5/AFML/U3",
     "Sem 5/AFML/U2/U2 - P3.md",
+    "Untitled.base",
+    "Sem 5/ADA/U2 QA.md",
     "Sem 5/AFML/U2/U2 - P1.md",
+    "Sem 5/ADA",
+    "Sem 5/AFML/U2/U2 - P2.md",
     "Sem 5/SE/U2/U2 - P2.md",
     "Sem 5/AFML/U2",
     "Sem 5/AFML",
     "Sem 5/SE/U2/U2 - P1.md",
     "Sem 5/SE/U1/U1 - P2.md",
-    "Sem 5/SE/U1/U1 - P1.md",
     "Sem 5/SE/U2",
     "Sem 5/ML/U1/U1 - 2.md",
     "Sem 5/SE/U1",
@@ -154,14 +161,10 @@
     "Sem 5/ML/SE",
     "Sem 5/ML/U1/U1 - 1.md",
     "Sem 5/ML/U1/U1 - 3.md",
-    "Sem 5/ML/U2",
-    "Sem 5/ML/U1",
-    "Sem 5/ML",
     "Sem 5/DBMS/U2/U2 - 2.md",
     "Sem 5/DBMS/U1/U1 - 1.md",
     "Sem 5/DBMS/U2/U2 - 1.md",
     "Sem 5/DBMS/U1/U1 - 2.md",
-    "Sem 5/DBMS/U2",
     "Sem 4/CN/U3/1 - Transport Layer & Reliable Data Transfer Protocols.md",
     "Sem 4/MPCA/Unit 1/2 - ARM Processor Fundamentals.md",
     "Sem 4/MPCA/Unit 1/1 - What is a Microprocessor and Microcontroller?.md",
@@ -171,9 +174,6 @@
     "Sem 4/LAA/4 - Orthogonalization.md",
     "Sem 4/CN/U3/3 - TCP.md",
     "Sem 4/CN/U3/4 - Network Layer & Internet Protocol.md",
-    "Sem 4/CN/U3/2 - Go Back N Protocol and Selective Repeat.md",
-    "Sem 4/MPCA/Unit 3/2 - Cache Memory.md",
-    "Sem 4/MPCA/Unit 3/3 - Cache Memory Mapping Techniques.md",
     "Images/Pasted image 20250422224122.png",
     "Images/Pasted image 20250422223754.png",
     "Images/Pasted image 20250422223739.png",
