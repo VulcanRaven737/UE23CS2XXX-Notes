@@ -1,4 +1,4 @@
-# A Deep Dive into 3Advanced Representation Learning and Dimensionality Reduction
+# A Deep Dive into Advanced Representation Learning and Dimensionality Reduction
 
 ## 1.0 Foundational Concepts: The Basic Autoencoder
 

@@ -1,7 +1,8 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Notation 2",
+  "cssTheme": "Border",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "accentColor": "#f76969"
 }

@@ -1,4 +1,5 @@
 {
-  "spellcheck": true,
-  "promptDelete": false
+  "spellcheck": false,
+  "promptDelete": false,
+  "autoPairMarkdown": true
 }
