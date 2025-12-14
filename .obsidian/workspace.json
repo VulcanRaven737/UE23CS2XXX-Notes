@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "df624e9933ec906b",
+        "id": "1da69867dd0e5eab",
         "type": "tabs",
         "children": [
           {
-            "id": "5bfd55817d6cdbf4",
+            "id": "b7f518b1c8efb8f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 5/ML/U1/U1 - P1.md",
+                "file": "Sem 5/AFML/U2/U2 - P1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "U1 - P1"
-            }
-          },
-          {
-            "id": "cd2961eb949581a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 5/ML/U2/U2 - P2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "U2 - P2"
-            }
-          },
-          {
-            "id": "0d10a94ba2a82121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 5/ML/U2/U2 - P3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "U2 - P3"
+              "title": "U2 - P1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "651d397abd876ff9",
@@ -170,14 +138,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0d10a94ba2a82121",
+  "active": "bee6935da98f34b0",
   "lastOpenFiles": [
-    "Sem 5/ML/U2/U2 - P1.md",
+    "Sem 5/AFML/U4/U4 - P3.md",
+    "Sem 5/AFML/U4/U4 - P2.md",
+    "Sem 5/AFML/U4/U4 - P1.md",
+    "Sem 5/AFML/U3/U3 - P2.md",
+    "Sem 5/AFML/U3/U3 - P1.md",
+    "Sem 5/ADA/U2 QA.md",
+    "Sem 5/SE/U3/U3 - P1.md",
+    "Sem 5/SE/U2/U2 - P2.md",
+    "Sem 5/SE/U2/U2 - P1.md",
+    "Sem 5/SE/U1/U1 - P2.md",
+    "Sem 5/SE/U1/U1 - P1.md",
     "Sem 5/ML/U2/U2 - P3.md",
+    "Sem 5/ML/U2/U2 - P2.md",
+    "Sem 5/ML/U1/U1 - P1.md",
+    "Sem 5/ML/U2/U2 - P1.md",
     "Sem 5/ML/U4/U4 - P3.md",
     "Sem 5/ML/U4/U4 - P2.md",
-    "Sem 5/ML/U1/U1 - P1.md",
-    "Sem 5/ML/U2/U2 - P2.md",
     "Sem 5/ML/U1/U1 - P3.md",
     "Sem 5/ML/U1/U1 - P2.md",
     "Sem 5/ML/U4/U4 - P1.md",
@@ -187,17 +166,6 @@
     "Sem 5/DBMS/U3/U3 - P4.md",
     "Sem 5/DBMS/U4/U4 - P2.md",
     "Sem 5/DBMS/U1/U1 - P3.md",
-    "Sem 5/DBMS/U1/U1 - 2.md",
-    "Sem 5/DBMS/U4/U4 - P1.md",
-    "Sem 5/DBMS/U3/U3 - P3.md",
-    "Sem 5/DBMS/U1/U1 - 1.md",
-    "Sem 5/DBMS/U3/U3 - P1.md",
-    "Sem 5/DBMS/U3/U3 - P2.md",
-    "Sem 5/DBMS/U2/U2 - 2.md",
-    "Sem 5/DBMS/U2/U2 - 1.md",
-    "Sem 5/ADA/U4/U4 - P2.md",
-    "Sem 5/ADA/U4/U4 - P1.md",
-    "Sem 5/ADA/U3/U3 - P2.md",
     "Sem 5/ADA/U4",
     "Sem 5/ADA/U3/Untitled",
     "Sem 5/ADA/U3",
