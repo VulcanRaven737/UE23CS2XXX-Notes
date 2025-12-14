@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1da69867dd0e5eab",
+        "id": "b52a8ada9b61b91d",
         "type": "tabs",
         "children": [
           {
-            "id": "b7f518b1c8efb8f5",
+            "id": "fe4b3cbe7b135d03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 5/AFML/U2/U2 - P1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "U2 - P1"
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "651d397abd876ff9",
@@ -138,8 +134,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bee6935da98f34b0",
+  "active": "fe4b3cbe7b135d03",
   "lastOpenFiles": [
+    "Sem 5/AFML/U2/U2 - P3.md",
+    "Sem 5/AFML/U2/U2 - P4.md",
+    "Sem 5/AFML/U2/U2 - P2.md",
+    "Sem 5/AFML/U2/U2 - P1.md",
     "Sem 5/AFML/U4/U4 - P3.md",
     "Sem 5/AFML/U4/U4 - P2.md",
     "Sem 5/AFML/U4/U4 - P1.md",
@@ -162,10 +162,6 @@
     "Sem 5/ML/U4/U4 - P1.md",
     "Sem 5/ML/U3/U3 - P1.md",
     "Sem 5/DBMS/U2/U2 - P3.md",
-    "Sem 5/DBMS/U4/U4 - P3.md",
-    "Sem 5/DBMS/U3/U3 - P4.md",
-    "Sem 5/DBMS/U4/U4 - P2.md",
-    "Sem 5/DBMS/U1/U1 - P3.md",
     "Sem 5/ADA/U4",
     "Sem 5/ADA/U3/Untitled",
     "Sem 5/ADA/U3",
