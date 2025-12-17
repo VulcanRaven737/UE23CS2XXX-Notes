@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b52a8ada9b61b91d",
+        "id": "b3f255a94bb47b63",
         "type": "tabs",
         "children": [
           {
-            "id": "fe4b3cbe7b135d03",
+            "id": "0007c0dd0eb93a83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sem 5/ADA/U2/U2 - P3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "U2 - P3"
             }
           }
         ]
@@ -134,17 +139,27 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fe4b3cbe7b135d03",
+  "active": "0007c0dd0eb93a83",
   "lastOpenFiles": [
-    "Sem 5/AFML/U2/U2 - P3.md",
+    "Sem 5/ADA/U2/U2 - P2.md",
+    "Sem 5/ADA/U2/U2 - P3.md",
+    "Sem 5/ADA/U4/U4 - P2.md",
+    "Sem 5/ADA/U4/U4 - P1.md",
+    "Sem 5/ADA/U3/U3 - P2.md",
+    "Sem 5/ADA/U3/U3 - P1.md",
+    "Sem 5/ADA/U1/U1 - P1.md",
+    "Sem 5/ADA/U1",
+    "Sem 5/ADA/U2/U2 - P1.md",
+    "Sem 5/ADA/U2",
     "Sem 5/AFML/U2/U2 - P4.md",
+    "Sem 5/AFML/U4/U4 - P3.md",
+    "Sem 5/AFML/U3/U3 - P1.md",
+    "Sem 5/AFML/U3/U3 - P2.md",
+    "Sem 5/AFML/U2/U2 - P3.md",
     "Sem 5/AFML/U2/U2 - P2.md",
     "Sem 5/AFML/U2/U2 - P1.md",
-    "Sem 5/AFML/U4/U4 - P3.md",
     "Sem 5/AFML/U4/U4 - P2.md",
     "Sem 5/AFML/U4/U4 - P1.md",
-    "Sem 5/AFML/U3/U3 - P2.md",
-    "Sem 5/AFML/U3/U3 - P1.md",
     "Sem 5/ADA/U2 QA.md",
     "Sem 5/SE/U3/U3 - P1.md",
     "Sem 5/SE/U2/U2 - P2.md",
@@ -154,14 +169,6 @@
     "Sem 5/ML/U2/U2 - P3.md",
     "Sem 5/ML/U2/U2 - P2.md",
     "Sem 5/ML/U1/U1 - P1.md",
-    "Sem 5/ML/U2/U2 - P1.md",
-    "Sem 5/ML/U4/U4 - P3.md",
-    "Sem 5/ML/U4/U4 - P2.md",
-    "Sem 5/ML/U1/U1 - P3.md",
-    "Sem 5/ML/U1/U1 - P2.md",
-    "Sem 5/ML/U4/U4 - P1.md",
-    "Sem 5/ML/U3/U3 - P1.md",
-    "Sem 5/DBMS/U2/U2 - P3.md",
     "Sem 5/ADA/U4",
     "Sem 5/ADA/U3/Untitled",
     "Sem 5/ADA/U3",
@@ -170,8 +177,6 @@
     "Sem 5/SE/U3",
     "Sem 5/ML/U3",
     "Sem 5/DBMS/U3",
-    "Untitled.base",
-    "Sem 5/ML/U4",
     "Images/Pasted image 20250422224122.png",
     "Images/Pasted image 20250422223754.png",
     "Images/Pasted image 20250422223739.png",
