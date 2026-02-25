@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b68f1755173e8bb2",
+        "id": "6b7898c309602be0",
         "type": "tabs",
         "children": [
           {
-            "id": "88647a90747d033a",
+            "id": "e009dd6958e4999d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 6/NLP/U1 - P1.md",
-                "mode": "source",
+                "file": "Sem 6/CC/P1.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "U1 - P1"
-            }
-          },
-          {
-            "id": "42f34bc38e845617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem 6/GDL/U1 - P1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "U1 - P1"
+              "title": "P1"
             }
           }
         ]
@@ -154,12 +139,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "88647a90747d033a",
+  "active": "e009dd6958e4999d",
   "lastOpenFiles": [
-    "Sem 6/GDL/U1 - P2.md",
+    "Sem 6/CD/Master Study Notes Introduction to Compiler Design.md",
+    "Sem 6/CC/P1.md",
+    "Sem 6/CC",
+    "Sem 6/CD/Untitled",
+    "Sem 6/CD",
     "Sem 6/NLP/U1 - P1.md",
-    "Sem 6/NLP",
     "Sem 6/GDL/U1 - P1.md",
+    "Sem 6/GDL/U1 - P2.md",
+    "Sem 6/NLP",
     "Sem 6/GDL",
     "Sem 6",
     "Sem 5/ADA/U2/U2 - P3.md",
@@ -185,13 +175,8 @@
     "Sem 5/SE/U3/U3 - P1.md",
     "Sem 5/SE/U2/U2 - P2.md",
     "Sem 5/SE/U2/U2 - P1.md",
-    "Sem 5/SE/U1/U1 - P2.md",
-    "Sem 5/SE/U1/U1 - P1.md",
     "Sem 5/ADA/U4",
     "Sem 5/ADA/U3/Untitled",
-    "Sem 5/ADA/U3",
-    "Sem 5/AFML/U4",
-    "Sem 5/SE/U4",
     "Images/Pasted image 20250422224122.png",
     "Images/Pasted image 20250422223754.png",
     "Images/Pasted image 20250422223739.png",
