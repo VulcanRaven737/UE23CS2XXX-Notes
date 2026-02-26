@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 6/CC/P1.md",
-                "mode": "preview",
+                "file": "Sem 6/OOAD/U2.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "P1"
+              "title": "U2"
             }
           }
         ]
@@ -141,7 +141,11 @@
   },
   "active": "e009dd6958e4999d",
   "lastOpenFiles": [
-    "Sem 6/CC/P1.md",
+    "Sem 6/CC/U2/P1.md",
+    "Sem 6/OOAD/U2.md",
+    "Sem 6/OOAD/U2",
+    "Sem 6/CC/U2",
+    "Sem 6/OOAD",
     "Sem 6/CD/Master Study Notes Introduction to Compiler Design.md",
     "Sem 6/CC",
     "Sem 6/CD/Untitled",
@@ -161,7 +165,6 @@
     "Sem 5/ADA/U4/U4 - P1.md",
     "Sem 5/ADA/U1/U1 - P1.md",
     "Sem 5/ADA/U1",
-    "Sem 5/ADA/U2",
     "Sem 5/AFML/U2/U2 - P4.md",
     "Sem 5/AFML/U4/U4 - P3.md",
     "Sem 5/AFML/U3/U3 - P1.md",
@@ -174,9 +177,6 @@
     "Sem 5/ADA/U2 QA.md",
     "Sem 5/SE/U3/U3 - P1.md",
     "Sem 5/SE/U2/U2 - P2.md",
-    "Sem 5/SE/U2/U2 - P1.md",
-    "Sem 5/ADA/U4",
-    "Sem 5/ADA/U3/Untitled",
     "Images/Pasted image 20250422224122.png",
     "Images/Pasted image 20250422223754.png",
     "Images/Pasted image 20250422223739.png",
