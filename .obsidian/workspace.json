@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9ce8c96302bda934",
+        "id": "9332101785ccacc8",
         "type": "tabs",
         "children": [
           {
-            "id": "d853a78acf1ccd7c",
+            "id": "378715aa7368e88e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 6/OOAD/U1.md",
-                "mode": "preview",
+                "file": "Sem 6/CD/U1/P2.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "U1"
+              "title": "P2"
             }
           }
         ]
@@ -139,10 +139,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d853a78acf1ccd7c",
+  "active": "378715aa7368e88e",
   "lastOpenFiles": [
-    "Sem 6/OOAD/U2.md",
+    "Sem 6/CD/U1/P1.md",
+    "Sem 6/CD/U1/P2.md",
+    "Sem 6/CD/U1",
     "Sem 6/OOAD/U1.md",
+    "Sem 6/OOAD/U2.md",
     "Sem 6/CC/U2/P3.md",
     "Sem 6/CC/U1/P3.md",
     "Sem 6/CC/U1/P2.md",
@@ -154,13 +157,11 @@
     "Untitled.md",
     "Sem 6/CC/U2/P1.md",
     "Sem 6/CC/U2",
-    "Sem 6/CD/U1.md",
     "Sem 6/CD/U2.md",
     "Sem 6/OOAD/U2",
     "Sem 6/CC/U2",
     "Sem 6/OOAD",
     "Sem 6/CC",
-    "Sem 6/CD/Untitled",
     "Sem 6/CD",
     "Sem 6/NLP/U1 - P1.md",
     "Sem 6/GDL/U1 - P1.md",
@@ -176,7 +177,6 @@
     "Sem 5/ADA/U4/U4 - P1.md",
     "Sem 5/ADA/U1/U1 - P1.md",
     "Sem 5/AFML/U2/U2 - P4.md",
-    "Sem 5/AFML/U4/U4 - P3.md",
     "Images/Pasted image 20250422224122.png",
     "Images/Pasted image 20250422223754.png",
     "Images/Pasted image 20250422223739.png",
