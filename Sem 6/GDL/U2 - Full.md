@@ -1,4 +1,4 @@
-# 📘 Deep Learning on Graphs — Complete Tutor Notebook
+#  Deep Learning on Graphs — Complete Tutor Notebook
 
 ### Course: UE23AM342BA1 | Interdisciplinary Deep Learning on Graphs
 
