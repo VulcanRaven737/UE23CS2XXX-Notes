@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 6/GDL/ISA2.md",
+                "file": "Sem 6/NLP/U3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ISA2"
+              "title": "U3"
             }
           }
         ],
@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "651d397abd876ff9",
@@ -156,8 +157,10 @@
   },
   "active": "ddde46576b21b6cd",
   "lastOpenFiles": [
-    "Sem 6/OOAD/U4.md",
+    "Sem 6/NLP/U2.md",
+    "Sem 6/NLP/U3.md",
     "Sem 6/GDL/ISA2.md",
+    "Sem 6/OOAD/U4.md",
     "Sem 6/OOAD/U3.md",
     "Untitled.md",
     "Sem 6/CC/U3.md",
@@ -167,7 +170,6 @@
     "Sem 6/CC/U2/P1.md",
     "Sem 6/CC/U1/P1.md",
     "Sem 6/NLP/U1.md",
-    "Sem 6/NLP/U2.md",
     "Sem 6/GDL/U2 - Full.md",
     "Sem 6/GDL/U1 - Full.md",
     "Sem 6/GDL/U1 - P2.md",
@@ -183,7 +185,6 @@
     "Sem 6/CC/U1/P2.md",
     "Sem 6/CC/U1",
     "Sem 6/CC/U2/U2 - Full.md",
-    "Sem 6/CC/U2/temp.md",
     "Sem 6/CC/U2",
     "Sem 6/OOAD/U2",
     "Sem 6/CC/U2",
