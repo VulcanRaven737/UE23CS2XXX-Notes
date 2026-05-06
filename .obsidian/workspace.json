@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Sem 6/CC/U1/Combined.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 6/CC/U1/Combined.md",
+                "file": "Sem 6/CC/U2/Combined.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -37,8 +37,7 @@
               "title": "Combined"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,12 +154,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ec965991ad1328a3",
+  "active": "4e7f767fc599d2ce",
   "lastOpenFiles": [
+    "Sem 6/CC/U1/P1.md",
+    "Sem 6/CC/U2/Combined.md",
+    "Sem 6/CC/U1/Combined.md",
+    "Sem 5/ML/U4/U4 - P1.md",
+    "Sem 5/ML/U3/U3 - P1.md",
+    "Sem 5/ML/U3/U3 - P2.md",
     "Sem 6/CC/U1/P3.md",
     "Sem 6/CC/U1/P2.md",
-    "Sem 6/CC/U1/P1.md",
-    "Sem 6/CC/U1/Combined.md",
     "Sem 6/CC/U4.md",
     "Sem 6/CC/U3.md",
     "Sem 6/CC/U2/P3.md",
@@ -179,11 +182,7 @@
     "Sem 6/GDL/U1 - P2.md",
     "Sem 6/GDL/U1 - P1.md",
     "Sem 6/CD/U1/P3.md",
-    "Sem 6/CD/U1/P2.md",
-    "Sem 6/CD/U2.md",
-    "Sem 6/CD/U1/P1.md",
     "Sem 6/CD/U1",
-    "Sem 6/OOAD/U1.md",
     "Sem 6/CC/U1",
     "Sem 6/CC/U2",
     "Sem 6/OOAD/U2",
